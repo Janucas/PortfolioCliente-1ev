@@ -1,24 +1,28 @@
-import Navbar from './src/components/Navbar/Navbar';
-import About from './components/About';
-import Education from './components/Education';
-import Experience from './components/Experience';
-import Projects from './components/Projects';
-import Skills from './components/Skills';
-import References from './components/References';
-import Contact from './components/Contact';
+import Navbar from "./components/navbar/navbar";
+import About from "./components/About/About";
+import Education from "./components/Education/Education";
+import Experience from "./components/Experience/Experience";
+import Projects from "./components/Projects/Projects";
+import Skills from "./components/Skills/Skills";
+import References from "./components/References/References";
+import Contact from "./components/Contact/Contact";
+import "./index.css";
 
 function App() {
   return (
-    <>
+    <div className="app">
       <Navbar />
-      <About />
-      <Education />
-      <Experience />
-      <Projects />
-      <Skills />
-      <References />
-      <Contact />
-    </>
+      <main className="main-content">
+        <About />
+        <Education />
+        <Experience />
+        <Projects />
+        <Skills />
+        <References />
+        <Contact />
+      </main>
+    </div>
   );
 }
+
 export default App;
