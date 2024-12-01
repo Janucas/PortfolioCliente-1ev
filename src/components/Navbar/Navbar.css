@@ -1,0 +1,51 @@
+.navbar {
+  position: fixed; /* Posición fija en la parte superior */
+  top: 0;
+  left: 0;
+  width: 100%; /* Ocupa todo el ancho */
+  height: 60px; /* Altura ajustada */
+  z-index: 1000; /* Asegura que esté encima de otros elementos */
+  display: flex;
+  align-items: center; /* Centra los elementos verticalmente */
+  justify-content: center; /* Centra los elementos horizontalmente */
+  padding: 0 1rem;
+  background-color: #f8f9fa; /* Color de fondo */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Sombra para separación */
+}
+
+.navbar-title {
+  font-size: 1.25rem;
+  font-weight: bold;
+  color: #333;
+  margin: 0;
+}
+
+.navbar-links {
+  display: flex;
+  width: 100%;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.navbar-links li {
+  flex: 1;
+  text-align: center;
+}
+
+.navbar-links a {
+  display: block;
+  padding: 0.5rem 0; /* Altura ajustada del enlace */
+  text-decoration: none;
+  color: #333;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.navbar-links a:hover {
+  background-color: lightslategray;
+  color: white;
+}
+
+body {
+  padding-top: 70px; /* Ajusta el espacio para que el contenido no quede detrás del navbar */
+}

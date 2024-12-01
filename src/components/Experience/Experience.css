@@ -1,0 +1,29 @@
+.experience {
+    width: 100%;
+    padding: 2rem;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .experience-title {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+  }
+  
+  .experience-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .experience-item {
+    margin-bottom: 1rem;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 1rem;
+  }
+  
+  .experience-item h3 {
+    font-size: 1.25rem;
+    margin: 0;
+  }
+  

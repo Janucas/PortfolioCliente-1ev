@@ -1,0 +1,25 @@
+{
+    "about": {
+        "name": "John Doe",
+        "photo": "media/22c99181-53b8-4a66-867f-15ed423e9fad.jpg",
+        "profession": "Software Developer",
+        "description": "Passionate developer with a love for creating clean and functional designs."
+    },
+    "education": [
+        { "degree": "B.Sc. in Computer Science", "institution": "XYZ University", "year": "2020" }
+    ],
+    "experience": [
+        { "role": "Frontend Developer", "company": "Tech Corp", "years": "2021 - Present" }
+    ],
+    "projects": [
+        { "name": "Portfolio Website", "description": "Personal portfolio showcasing skills and projects." }
+    ],
+    "skills": {
+        "frontend": ["HTML", "CSS", "JavaScript", "Bootstrap"],
+        "backend": ["Node.js", "Express"],
+        "devops": ["Docker", "Git"]
+    },
+    "references": [
+        { "name": "Jane Smith", "relation": "Manager at Tech Corp" }
+    ]
+}
