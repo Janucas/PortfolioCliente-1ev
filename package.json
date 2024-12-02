@@ -13,7 +13,8 @@
     "bootstrap": "^5.3.3",
     "portfoliocliente-1ev": "file:",
     "react": "^18.3.1",
-    "react-dom": "^18.3.1"
+    "react-dom": "^18.3.1",
+    "react-icons": "^5.3.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.15.0",

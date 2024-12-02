@@ -1,0 +1,21 @@
+[
+    {
+      "name": "Ismael Hernandez",
+      "contact": "ismael@duplex.com",
+      "description": "Juan Antonio is an excellent and hard worker guy, I had the opportunity of being his first boss and I'm very happy for that",
+      "photo": "/src/assets/persona.png"
+    },
+    {
+      "name": "Jose Luis Calero",
+      "contact": "jlcalero@humorist.com",
+      "description": "Juan Antonio is a great person and very serious when he is working",
+      "photo": "/src/assets/calero.jpg"
+    },
+    {
+      "name": "Joaquin Cruz",
+      "contact": "catalonia@headmanager.com",
+      "description": "Thanks to Juan Antonio our reviews have grown significantly",
+      "photo": "/src/assets/director.png"
+    }
+  ]
+  

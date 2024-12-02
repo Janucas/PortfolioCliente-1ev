@@ -1,0 +1,27 @@
+[
+    {
+      "degree": "Bachelor of Science in Technological Branch and E.S.O certificate",
+      "institution": "I.E.S Cantillana",
+      "period": "2014 - 2020",
+      "image": "/src/assets/iesCantillana.jpg"
+    },
+    {
+      "degree": "Web Developer Degree",
+      "institution": "I.E.S Jacarada and I.E.S Santa Joaquina de Vedruna",
+      "period": "2020 - Nowadays",
+      "image": "/src/assets/vedruna.png"
+    },
+    {
+      "degree": "B1 and B2 English Certificate",
+      "institution": "Easy Study Academy",
+      "period": "2016 and 2018",
+      "image": "/src/assets/easyStudy.jpg"
+    },
+    {
+      "degree": "Life Guard Certificate",
+      "institution": "Ympetu",
+      "period": "2020",
+      "image": "/src/assets/ympetu.webp"
+    }
+  ]
+  

@@ -1,0 +1,57 @@
+[
+    {
+      "role": "Tour Manager",
+      "company": "La Gran Belleza Producciones and Imagin Productions",
+      "description": "Carry out manager functions of the humorist Jose Luis Calero.",
+      "image": "/src/assets/calero.jpg"
+    },
+    {
+      "role": "Model in a Dior Event",
+      "company": "Adesco Eventos",
+      "description": "Stay at the Dior Event helping to the guests.",
+      "image": "/src/assets/dior.png"
+    },
+    {
+      "role": "Wayter",
+      "company": "Restaurante Duplex",
+      "description": "Carry out wayter functions becoming manager.",
+      "image": "/src/assets/duplex.jpg"
+    },
+    {
+      "role": "Disco Wayter",
+      "company": "Deluxe Lounge",
+      "description": "Carry out wayter functions becoming manager.",
+      "image": "/src/assets/deluxe.png"
+    },
+    {
+      "role": "Wayter",
+      "company": "CATALONIA Hotel (Santa Justa)",
+      "description": "Carry out wayter functions in the pool bar.",
+      "image": "/src/assets/catalonia.png"
+    },
+    {
+      "role": "Manager Wayter",
+      "company": "GRAMMY LATINOS SEVILLA 2023",
+      "description": "In charge of the organization and correct functioning of my team.",
+      "image": "/src/assets/grammy.jpg"
+    },
+    {
+      "role": "Trade coordinator in Seville",
+      "company": "DAM AZAFATAS Y EVENTOS",
+      "description": "Carry out trade functions in order to offer our services so that they can be exhibited at future events.",
+      "image": "/src/assets/dam.jpg"
+    },
+    {
+      "role": "Hotel Wayter",
+      "company": "Seth Santo Tomas (Menorca)",
+      "description": "Carry out wayter functions in the main bar of the hotel.",
+      "image": "/src/assets/seth.png"
+    },
+    {
+      "role": "CEO of a Brand Clothes",
+      "company": "Nukko",
+      "description": "I started my own brand clothes.",
+      "image": "/src/assets/nukko.jpg"
+    }
+  ]
+  
