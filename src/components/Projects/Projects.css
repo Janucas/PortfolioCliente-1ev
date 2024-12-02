@@ -1,0 +1,75 @@
+.projects {
+  width: 100%;
+  padding: 2rem;
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.projects-title {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+.projects-search {
+  width: 100%;
+  padding: 0.5rem;
+  margin-bottom: 1rem;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.projects-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 1rem;
+}
+
+.project-card {
+  padding: 1rem;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.project-image {
+  width: 100%;
+  max-height: 200px;
+  object-fit: cover;
+  margin-bottom: 1rem;
+  border-radius: 4px;
+}
+
+.projects-pagination {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 1rem;
+}
+
+.projects-pagination button {
+  padding: 0.5rem 1rem;
+  border: none;
+  background-color: #007bff;
+  color: #fff;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.projects-pagination button:disabled {
+  background-color: #ccc;
+  cursor: not-allowed;
+}
+
+.projects-pagination button:hover:not(:disabled) {
+  background-color: #0056b3;
+}
+
+.project-image {
+  width: 100px; /* Ajusta el ancho */
+  height: auto; /* Mantiene la proporción de la imagen */
+  object-fit: cover; /* Ajusta cómo la imagen se adapta al contenedor */
+  border-radius: 8px; /* Opcional: hace que las esquinas sean redondeadas */
+  margin-bottom: 10px; /* Espaciado inferior */
+}

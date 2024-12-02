@@ -1,0 +1,57 @@
+[
+    {
+      "role": "Tour Manager",
+      "company": "La Gran Belleza Producciones e Imagin Productions",
+      "description": "Realización de funciones de manager del humorista Jose Luis Calero.",
+      "image": "/src/assets/calero.jpg"
+    },
+    {
+      "role": "Modelo en un Evento de Dior",
+      "company": "Adesco Eventos",
+      "description": "Presencia en el evento de Dior ayudando a los invitados.",
+      "image": "/src/assets/dior.png"
+    },
+    {
+      "role": "Camarero",
+      "company": "Restaurante Duplex",
+      "description": "Desempeño de funciones de camarero llegando a ser encargado.",
+      "image": "/src/assets/duplex.jpg"
+    },
+    {
+      "role": "Camarero de Discoteca",
+      "company": "Deluxe Lounge",
+      "description": "Desempeño de funciones de camarero llegando a ser encargado.",
+      "image": "/src/assets/deluxe.png"
+    },
+    {
+      "role": "Camarero",
+      "company": "Hotel CATALONIA (Santa Justa)",
+      "description": "Desempeño de funciones de camarero en el bar de la piscina.",
+      "image": "/src/assets/catalonia.png"
+    },
+    {
+      "role": "Encargado de Camareros",
+      "company": "GRAMMY LATINOS SEVILLA 2023",
+      "description": "A cargo de la organización y correcto funcionamiento de mi equipo.",
+      "image": "/src/assets/grammy.jpg"
+    },
+    {
+      "role": "Coordinador Comercial en Sevilla",
+      "company": "DAM AZAFATAS Y EVENTOS",
+      "description": "Desempeño de funciones comerciales para ofrecer nuestros servicios y exponerlos en futuros eventos.",
+      "image": "/src/assets/dam.jpg"
+    },
+    {
+      "role": "Camarero de Hotel",
+      "company": "Seth Santo Tomas (Menorca)",
+      "description": "Desempeño de funciones de camarero en el bar principal del hotel.",
+      "image": "/src/assets/seth.png"
+    },
+    {
+      "role": "CEO de una Marca de Ropa",
+      "company": "Nukko",
+      "description": "Creé mi propia marca de ropa.",
+      "image": "/src/assets/nukko.jpg"
+    }
+  ]
+  
