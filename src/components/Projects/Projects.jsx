@@ -25,7 +25,7 @@ const ProjectCard = ({ project, test = false, onDelete }) => {
   return (
     <div className="bg-white p-4 rounded-lg shadow-lg hover:shadow-2xl transition-shadow duration-300">
       <h2 className="text-xl font-semibold text-gray-800">{project.project_name}</h2> 
-      <p className="mt-2 text-gray-600">{project.description}</p> }
+      <p className="mt-2 text-gray-600">{project.description}</p> 
       {test && (
         <button onClick={handleDelete} className="btn btn-danger mt-4">
           Eliminar
