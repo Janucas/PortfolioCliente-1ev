@@ -1,15 +1,16 @@
-import { useState } from "react";
-import "./Contact.css";
+import { useState } from "react"; 
+import "./Contact.css"; 
 
 function Contact() {
   const [formData, setFormData] = useState({
     name: "",
     email: "",
     message: "",
-  });
+  }); // Estado para almacenar los datos del formulario
 
-  const [errors, setErrors] = useState({});
+  const [errors, setErrors] = useState({}); 
 
+  // Función para validar los datos del formulario
   const validate = () => {
     const errors = {};
     if (!/^[A-Z][a-z]+(\s[A-Z][a-z]+)*$/.test(formData.name)) {
@@ -25,13 +26,23 @@ function Contact() {
     return Object.keys(errors).length === 0;
   };
 
+  // Manejo del envío del formulario
   const handleSubmit = (e) => {
     e.preventDefault();
     if (validate()) {
-      console.log("Form submitted:", formData);
+      console.log("Form submitted:", formData); 
+
+      // Reiniciar el formulario
+      setFormData({
+        name: "",
+        email: "",
+        message: "",
+      });
+      setErrors({}); 
     }
   };
 
+  // Manejo de cambios en los campos del formulario
   const handleChange = (e) => {
     setFormData({ ...formData, [e.target.name]: e.target.value });
   };
@@ -80,4 +91,4 @@ function Contact() {
   );
 }
 
-export default Contact;
+export default Contact; 

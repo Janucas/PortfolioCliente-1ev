@@ -6,6 +6,7 @@ import Projects from "./components/Projects/Projects";
 import Skills from "./components/Skills/Skills";
 import References from "./components/References/References";
 import Contact from "./components/Contact/Contact";
+import Footer from "./components/Footer/Footer"; // Importa el Footer
 import "./index.css";
 
 function App() {
@@ -21,6 +22,7 @@ function App() {
         <References />
         <Contact />
       </main>
+      <Footer /> {/* Añade el Footer aquí */}
     </div>
   );
 }

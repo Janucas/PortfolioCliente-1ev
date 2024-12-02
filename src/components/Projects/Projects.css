@@ -65,3 +65,11 @@
 .projects-pagination button:hover:not(:disabled) {
   background-color: #0056b3;
 }
+
+.project-image {
+  width: 100px; /* Ajusta el ancho */
+  height: auto; /* Mantiene la proporción de la imagen */
+  object-fit: cover; /* Ajusta cómo la imagen se adapta al contenedor */
+  border-radius: 8px; /* Opcional: hace que las esquinas sean redondeadas */
+  margin-bottom: 10px; /* Espaciado inferior */
+}

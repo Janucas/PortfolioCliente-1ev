@@ -1,0 +1,27 @@
+[
+    {
+      "degree": "Bachillerato en Ciencias y Certificado de E.S.O",
+      "institution": "I.E.S Cantillana",
+      "period": "2014 - 2020",
+      "image": "/src/assets/iesCantillana.jpg"
+    },
+    {
+      "degree": "Técnico en Desarrollo Web",
+      "institution": "I.E.S Jacarada y I.E.S Santa Joaquina de Vedruna",
+      "period": "2020 - Actualidad",
+      "image": "/src/assets/vedruna.png"
+    },
+    {
+      "degree": "Certificado de Inglés B1 y B2",
+      "institution": "Easy Study Academy",
+      "period": "2016 y 2018",
+      "image": "/src/assets/easyStudy.jpg"
+    },
+    {
+      "degree": "Certificado de Socorrista",
+      "institution": "Ympetu",
+      "period": "2020",
+      "image": "/src/assets/ympetu.webp"
+    }
+  ]
+  

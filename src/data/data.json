@@ -1,26 +1,8 @@
 {
-    "about": {
-      "name": "John Doe",
-      "photo": "../../src/assets/profile.jpeg",
-      "profession": "Software Developer",
-      "description": "Passionate developer with a love for clean and functional designs."
-    },
-    "education": [
-      { "degree": "B.Sc. in Computer Science", "institution": "XYZ University", "year": "2020" }
-    ],
-    "experience": [
-      { "role": "Frontend Developer", "company": "Tech Corp", "years": "2021 - Present" }
-    ],
-    "projects": [
-      { "name": "Portfolio Website", "description": "A portfolio to showcase my skills and projects." }
-    ],
-    "skills": {
-      "frontend": ["HTML", "CSS", "JavaScript", "Bootstrap"],
-      "backend": ["Node.js", "Express"],
-      "devops": ["Docker", "Git"]
-    },
-    "references": [
-      { "name": "Jane Smith", "relation": "Manager at Tech Corp" }
-    ]
+  "about": {
+    "photo": "/src/assets/profile.jpeg", 
+    "name": "Juan Antonio Núñez Castaño",
+    "profession": "Web Developer Student",
+    "description": "Me considero una persona ambiciosa y persistente en todo lo que hago y siempre me gusta continuar creciendo y aprendiendo en todo lo que hago para poder mejorar. Además, soy una persona simpática y extrovertida con buenas habilidades sociales que me facilitan mucho el trato con las personas tanto dentro como fuera de lo profesional. Soy un chico inquieto al que le encanta el deporte e involucrarse en otro tipo de proyectos externos que puedan aportar beneficios a mi vida."
   }
-  
+}
